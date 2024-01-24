@@ -1,0 +1,1 @@
+OMDBAPI responses and TopTen movies data can be retrieved from distributed cache.
